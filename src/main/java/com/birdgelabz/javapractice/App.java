@@ -14,6 +14,7 @@ public class App
     public static void main( String[] args )
     {
     	LOG.info("Bye");
+	    LOG.info("Hi");
     	LOG.info("Hello World");
     }
 }
