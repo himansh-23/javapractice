@@ -1,0 +1,9 @@
+INFO  | 2020-09-19 11:50:19 | [main] javapractice.App (App.java:16) - HELLO
+INFO  | 2020-09-19 12:53:04 | [main] javapractice.App (App.java:16) - HELLO
+INFO  | 2020-09-19 13:11:11 | [main] javapractice.App (App.java:16) - HELLO
+INFO  | 2020-09-19 13:11:49 | [main] javapractice.App (App.java:16) - HELLO
+INFO  | 2020-09-19 13:16:13 | [main] javapractice.App (App.java:16) - HELLO
+INFO  | 2020-09-19 14:02:34 | [main] javapractice.App (App.java:16) - HELLO
+ERROR | 2020-09-19 14:02:34 | [main] javapractice.App (App.java:20) - java.lang.ArithmeticException: / by zero
+INFO  | 2020-09-19 15:12:23 | [main] javapractice.App (App.java:16) - HELLO
+ERROR | 2020-09-19 15:12:23 | [main] javapractice.App (App.java:20) - java.lang.ArithmeticException: / by zero
